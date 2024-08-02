@@ -1,0 +1,3 @@
+replicate
+flask
+requests
